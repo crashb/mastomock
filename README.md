@@ -20,3 +20,8 @@ You also need to point the `config.txt` file at the Mastodon instance your bot i
 # Running
 
 Do `python mastokov.py` from the main directory. The script will automatically listen for any mention notifications.
+
+# Acknowledgements
+
+* This bot is made by [me](https://mastodon.social/@crashb).
+* I was able to re-use a big chunk of code from [Josef Kenny](https://mastodon.social/@jk)'s [User Count](https://github.com/josefkenny/usercount) bot.
