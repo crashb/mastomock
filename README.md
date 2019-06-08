@@ -19,7 +19,7 @@ You also need to point the `config.txt` file at the Mastodon instance your bot i
 
 # Running
 
-Do `python mastokov.py` from the main directory. The script will automatically listen for any mention notifications.
+Do `python mastomock.py` from the main directory. The script will automatically listen for any mention notifications.
 
 # Acknowledgements
 
